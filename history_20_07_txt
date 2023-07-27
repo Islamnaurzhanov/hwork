@@ -1,0 +1,37 @@
+   0 ls -la
+   1 tail -4 >> /home/
+   2 touch islam.txt /home/
+   3 ls -la /
+   4 | tail -4 >> /home/islam.txt
+   5 cd /home/
+   6 tree
+   7 mkdir islam1
+   8 cd islam1
+   9 touch islam.txt
+  10 treew
+  11 tree
+  12 cd /
+  13 ls -la | tail -4
+  14 ls -la | tail -4 >> home/islam1/islam.txt 
+  15 cat islam
+  16 cat islam\
+  17 cd ..
+  18 cat islam /home/islam1/
+  19 ccd home/
+  20 cd islam
+  21 cd home/
+  22 tree
+  23 cd islam1/
+  24 cat islam.txt 
+  25 cd /
+  26  cd tmp/
+  27 tree
+  28 ls -la
+  29 cd /
+  30 ls /tmp/testnew
+  31 mkdir -p /tmp/testnew
+  32 cat ~/readme.txt 
+  33 rm -*rf opt/task
+  34 rm -rf /opt/task
+  35 history
+  36 history > history_20_07_txt
